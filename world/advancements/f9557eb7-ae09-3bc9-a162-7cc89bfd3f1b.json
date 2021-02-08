@@ -199,7 +199,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2021-02-08 14:28:36 +0700"
+      "cooked_beef": "2021-02-08 14:28:36 +0700",
+      "cooked_chicken": "2021-02-08 17:22:10 +0700"
     },
     "done": false
   },
@@ -553,7 +554,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:silverfish": "2021-02-08 15:10:20 +0700"
+      "minecraft:silverfish": "2021-02-08 15:10:20 +0700",
+      "minecraft:zombie": "2021-02-08 17:16:36 +0700"
     },
     "done": false
   },
@@ -830,6 +832,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2021-02-08 13:58:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2021-02-08 18:16:08 +0700"
     },
     "done": true
   },

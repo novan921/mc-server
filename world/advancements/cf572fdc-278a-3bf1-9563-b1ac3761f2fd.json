@@ -53,6 +53,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2021-02-08 17:51:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-02-08 18:11:19 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-02-08 15:35:33 +0700"
@@ -89,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2021-02-08 17:43:27 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-02-08 15:37:00 +0700"
@@ -110,6 +128,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-02-08 15:31:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-02-08 18:11:19 +0700"
     },
     "done": true
   },
@@ -146,6 +170,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting": {
     "criteria": {
       "has_gold_ore": "2021-02-08 15:39:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2021-02-08 17:51:29 +0700"
     },
     "done": true
   },
@@ -200,6 +230,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2021-02-08 15:47:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2021-02-08 17:51:29 +0700"
     },
     "done": true
   },
@@ -266,7 +302,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2021-02-08 15:27:56 +0700",
-      "cooked_beef": "2021-02-08 15:43:35 +0700"
+      "cooked_beef": "2021-02-08 15:43:35 +0700",
+      "apple": "2021-02-08 17:50:27 +0700",
+      "bread": "2021-02-08 17:43:43 +0700",
+      "rotten_flesh": "2021-02-08 18:05:54 +0700"
     },
     "done": false
   },
@@ -426,6 +465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2021-02-08 17:43:27 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2021-02-08 15:35:33 +0700"
@@ -504,6 +549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2021-02-08 17:51:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2021-02-08 15:29:32 +0700"
@@ -551,6 +602,18 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2021-02-08 15:35:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-02-08 18:11:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2021-02-08 17:51:29 +0700"
     },
     "done": true
   },
@@ -716,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2021-02-08 17:51:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2021-02-08 15:29:32 +0700"
@@ -734,6 +803,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2021-02-08 17:51:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2021-02-08 17:51:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-02-08 15:34:00 +0700"
@@ -748,9 +829,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2021-02-08 15:54:19 +0700"
+      "minecraft:skeleton": "2021-02-08 15:54:19 +0700",
+      "minecraft:creeper": "2021-02-08 17:53:51 +0700",
+      "minecraft:zombie": "2021-02-08 17:50:21 +0700"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2021-02-08 17:51:29 +0700"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
@@ -782,6 +871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-02-08 18:11:19 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-02-08 15:30:43 +0700"
@@ -806,6 +901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-02-08 18:11:19 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-02-08 15:51:44 +0700"
@@ -818,9 +919,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2021-02-08 17:51:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2021-02-08 15:37:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2021-02-08 17:51:29 +0700"
     },
     "done": true
   },
@@ -839,6 +952,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-02-08 15:51:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2021-02-08 17:51:29 +0700"
     },
     "done": true
   },
