@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2021-02-08 13:56:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-02-07 20:37:41 +0700"
@@ -308,6 +314,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2021-02-07 21:29:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2021-02-08 13:56:29 +0700"
     },
     "done": true
   },
@@ -535,7 +547,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2021-02-07 20:55:22 +0700"
+      "minecraft:zombie": "2021-02-07 20:55:22 +0700",
+      "minecraft:drowned": "2021-02-08 14:00:40 +0700"
     },
     "done": false
   },
@@ -1041,6 +1054,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2021-02-08 13:56:52 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2021-02-07 21:29:55 +0700"
@@ -1173,5 +1192,5 @@
     },
     "done": true
   },
-  "DataVersion": 2586
+  "DataVersion": 2584
 }
