@@ -1,122 +1,423 @@
-[13:49:41] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:49:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:49:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:49:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:49:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:49:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:49:44] [main/INFO]: Reloading ResourceManager: Default
-[13:49:47] [Worker-Main-14/INFO]: Loaded 7 recipes
-[13:49:48] [Worker-Main-14/INFO]: Loaded 927 advancements
-[13:49:52] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[13:49:52] [Server thread/INFO]: Loading properties
-[13:49:52] [Server thread/INFO]: Default game type: SURVIVAL
-[13:49:52] [Server thread/INFO]: Generating keypair
-[13:49:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:49:53] [Server thread/INFO]: Using default channel type
-[13:49:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:49:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:49:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:49:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:49:58] [Server thread/INFO]: Preparing level "world"
-[13:49:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:50:01] [Server thread/INFO]: Preparing spawn area: 0%
-[13:50:01] [Server thread/INFO]: Preparing spawn area: 0%
-[13:50:01] [Server thread/INFO]: Preparing spawn area: 0%
-[13:50:01] [Server thread/INFO]: Preparing spawn area: 0%
-[13:50:01] [Server thread/INFO]: Preparing spawn area: 0%
-[13:50:01] [Server thread/INFO]: Preparing spawn area: 0%
-[13:50:01] [Server thread/INFO]: Preparing spawn area: 0%
-[13:50:02] [Server thread/INFO]: Preparing spawn area: 0%
-[13:50:02] [Server thread/INFO]: Preparing spawn area: 0%
-[13:50:03] [Server thread/INFO]: Preparing spawn area: 47%
-[13:50:07] [Server thread/INFO]: Time elapsed: 8867 ms
-[13:50:07] [Server thread/INFO]: Done (9.225s)! For help, type "help"
-[13:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
-[13:50:18] [Server thread/INFO]: mabay98[/180.244.18.12:60722] logged in with entity id 274 at (174.46232616223793, 64.0, 211.21908680675256)
-[13:50:18] [Server thread/INFO]: mabay98 joined the game
-[13:50:38] [Server thread/INFO]: novan921[/26.185.128.140:55554] logged in with entity id 298 at (171.3123847098144, 65.0, 209.0500736520322)
-[13:50:38] [Server thread/INFO]: novan921 joined the game
-[13:50:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:50:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:50:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:50:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:50:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:50:49] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:50:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[13:51:23] [Server thread/INFO]: <mabay98> ping gw 1 bar
-[13:53:11] [Server thread/INFO]: mabay98 lost connection: Disconnected
-[13:53:11] [Server thread/INFO]: mabay98 left the game
-[13:53:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:53:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:reach_distance'
-[13:53:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[13:53:51] [Server thread/INFO]: fazagustaf[/158.140.172.207:57732] logged in with entity id 591 at (230.16680205387487, 62.0, 156.81975306098514)
-[13:53:51] [Server thread/INFO]: fazagustaf joined the game
-[13:53:53] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:53:53] [Server thread/INFO]: mabay98[/180.244.18.12:60750] logged in with entity id 634 at (175.1870117110129, 66.0, 208.7114895656807)
-[13:53:53] [Server thread/INFO]: mabay98 joined the game
-[13:53:55] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:53:55] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:53:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[13:53:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:53:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:53:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:53:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:53:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:54:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:54:13] [Server thread/INFO]: mabay98 lost connection: Disconnected
-[13:54:13] [Server thread/INFO]: mabay98 left the game
-[13:54:43] [Server thread/INFO]: mabay98[/180.244.18.12:60765] logged in with entity id 782 at (175.1870117110129, 66.0, 208.7114895656807)
-[13:54:43] [Server thread/INFO]: mabay98 joined the game
-[13:55:09] [Server thread/INFO]: [novan921: Made fazagustaf a server operator]
-[13:55:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:55:27] [Server thread/INFO]: <mabay98> tp mabay98
-[13:55:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[13:55:36] [Server thread/INFO]: [novan921: Teleported novan921 to mabay98]
-[13:55:47] [Server thread/INFO]: [fazagustaf: Teleported fazagustaf to mabay98]
-[13:55:53] [Server thread/INFO]: [novan921: Teleported fazagustaf to mabay98]
-[13:56:23] [Server thread/INFO]: novan921 was slain by mabay98
-[13:56:52] [Server thread/INFO]: fazagustaf has made the advancement [A Seedy Place]
-[13:57:40] [Server thread/INFO]: <mabay98> hoe
-[13:58:29] [Server thread/INFO]: mabay98 has made the advancement [A Seedy Place]
-[13:58:40] [Server thread/INFO]: novan921 has made the advancement [Acquire Hardware]
-[13:59:20] [Server thread/INFO]: mabay98 hit the ground too hard
-[14:00:52] [Server thread/INFO]: mabay98 lost connection: Disconnected
-[14:00:52] [Server thread/INFO]: mabay98 left the game
-[14:00:58] [Server thread/INFO]: zaky[/66.96.225.123:11086] logged in with entity id 1513 at (137.5, 64.0, 217.5)
-[14:00:58] [Server thread/INFO]: zaky joined the game
-[14:01:04] [Server thread/INFO]: mabay98[/180.244.18.12:60787] logged in with entity id 1535 at (164.41979808937302, 62.9375, 237.5214401314286)
-[14:01:04] [Server thread/INFO]: mabay98 joined the game
-[14:01:17] [Server thread/INFO]: zaky lost connection: Disconnected
-[14:01:17] [Server thread/INFO]: zaky left the game
-[14:01:23] [Server thread/INFO]: mabay98 lost connection: Timed out
-[14:01:23] [Server thread/INFO]: mabay98 left the game
-[14:01:51] [Server thread/INFO]: mabay98[/180.244.18.12:60790] logged in with entity id 1609 at (162.70334303277065, 63.0, 232.9570397344216)
-[14:01:51] [Server thread/INFO]: mabay98 joined the game
-[14:01:54] [Server thread/INFO]: zaky[/66.96.225.123:10412] logged in with entity id 1619 at (159.14386079413515, 63.0, 228.9939440062017)
-[14:01:54] [Server thread/INFO]: zaky joined the game
-[14:02:13] [Server thread/INFO]: mabay98 lost connection: Timed out
-[14:02:13] [Server thread/INFO]: mabay98 left the game
-[14:02:15] [Server thread/INFO]: zaky lost connection: Disconnected
-[14:02:15] [Server thread/INFO]: zaky left the game
-[14:02:53] [Server thread/INFO]: mabay98[/180.244.18.12:60820] logged in with entity id 1701 at (162.70334303277065, 63.0, 232.9570397344216)
-[14:02:53] [Server thread/INFO]: mabay98 joined the game
-[14:03:04] [Server thread/INFO]: novan921 lost connection: Disconnected
-[14:03:04] [Server thread/INFO]: novan921 left the game
-[14:03:04] [Server thread/INFO]: mabay98 lost connection: Disconnected
-[14:03:04] [Server thread/INFO]: mabay98 left the game
-[14:03:10] [Server thread/INFO]: fazagustaf lost connection: Disconnected
-[14:03:10] [Server thread/INFO]: fazagustaf left the game
-[14:03:32] [Server thread/INFO]: Made fazagusta a server operator
-[14:03:32] [Server thread/INFO]: Stopping the server
-[14:03:32] [Server thread/INFO]: Stopping server
-[14:03:32] [Server thread/INFO]: Saving players
-[14:03:32] [Server thread/INFO]: Saving worlds
-[14:03:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:overworld
-[14:03:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:03:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_nether
-[14:03:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:03:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_end
-[14:03:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:03:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:03:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:03:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:06:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:06:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:06:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:06:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:06:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:06:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:06:08] [main/INFO]: Reloading ResourceManager: Default
+[14:06:08] [Worker-Main-12/INFO]: Loaded 7 recipes
+[14:06:09] [Worker-Main-12/INFO]: Loaded 927 advancements
+[14:06:09] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[14:06:09] [Server thread/INFO]: Loading properties
+[14:06:09] [Server thread/INFO]: Default game type: SURVIVAL
+[14:06:09] [Server thread/INFO]: Generating keypair
+[14:06:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:06:10] [Server thread/INFO]: Using default channel type
+[14:06:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:06:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:06:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:06:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:06:10] [Server thread/INFO]: Preparing level "world"
+[14:06:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:06:11] [Server thread/INFO]: Preparing spawn area: 0%
+[14:06:11] [Server thread/INFO]: Preparing spawn area: 0%
+[14:06:11] [Server thread/INFO]: Preparing spawn area: 0%
+[14:06:12] [Server thread/INFO]: Preparing spawn area: 27%
+[14:06:12] [Server thread/INFO]: Time elapsed: 1759 ms
+[14:06:12] [Server thread/INFO]: Done (1.864s)! For help, type "help"
+[14:06:26] [Server thread/INFO]: mabay98[/192.168.1.2:60933] logged in with entity id 259 at (163.05938897105406, 63.0, 232.72005530433813)
+[14:06:26] [Server thread/INFO]: mabay98 joined the game
+[14:07:12] [Server thread/INFO]: Made mabay98 a server operator
+[14:07:53] [Server thread/INFO]: mabay98 has made the advancement [Monster Hunter]
+[14:08:09] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:08:09] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:08:09] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:08:09] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:08:09] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:08:09] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:08:09] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:08:29] [Server thread/INFO]: novan921[/139.192.105.56:56144] logged in with entity id 500 at (161.1310604144606, 62.9375, 237.30934358466428)
+[14:08:29] [Server thread/INFO]: novan921 joined the game
+[14:08:44] [Server thread/INFO]: fazagustaf[/158.140.172.207:58373] logged in with entity id 527 at (161.13847819882469, 63.0, 238.95431667051938)
+[14:08:44] [Server thread/INFO]: fazagustaf joined the game
+[14:11:02] [Server thread/INFO]: mabay98 was slain by fazagustaf
+[14:11:50] [Server thread/INFO]: novan921 was slain by mabay98
+[14:12:54] [Server thread/INFO]: [fazagustaf: Teleported fazagustaf to mabay98]
+[14:13:08] [Server thread/INFO]: zaky[/66.96.225.123:54291] logged in with entity id 970 at (159.7026799589737, 63.0, 233.24080173962875)
+[14:13:08] [Server thread/INFO]: zaky joined the game
+[14:13:10] [Server thread/INFO]: [fazagustaf: Teleported fazagustaf to mabay98]
+[14:13:12] [Server thread/INFO]: mabay98 was slain by fazagustaf
+[14:13:33] [Server thread/INFO]: novan921 lost connection: Disconnected
+[14:13:33] [Server thread/INFO]: novan921 left the game
+[14:14:10] [Server thread/INFO]: zaky has made the advancement [A Seedy Place]
+[14:14:16] [Server thread/INFO]: [mabay98: Made fazagustaf no longer a server operator]
+[14:14:46] [Server thread/INFO]: [mabay98: Set own game mode to Creative Mode]
+[14:15:09] [Server thread/INFO]: zaky has made the advancement [The Parrots and the Bats]
+[14:15:09] [Server thread/INFO]: [mabay98: Teleported mabay98 to fazagustaf]
+[14:15:09] [Server thread/WARN]: mabay98 moved too quickly! 11.656125846366336,1.0625,-36.70391809499418
+[14:15:09] [Server thread/WARN]: mabay98 moved too quickly! 11.656125846366336,1.0625,-36.70391809499418
+[14:16:04] [Server thread/INFO]: novan921[/139.192.105.56:56458] logged in with entity id 1257 at (119.4391553487881, 63.0, 239.54405546576623)
+[14:16:04] [Server thread/INFO]: novan921 joined the game
+[14:16:23] [Server thread/INFO]: [mabay98: Teleported mabay98 to fazagustaf]
+[14:16:23] [Server thread/WARN]: mabay98 moved too quickly! 30.345096395657464,15.0,-3.8902517567010477
+[14:16:23] [Server thread/WARN]: mabay98 moved too quickly! 30.345096395657464,15.0,-3.8902517567010477
+[14:16:23] [Server thread/WARN]: mabay98 moved too quickly! 30.345096395657464,15.0,-3.8902517567010477
+[14:16:28] [Server thread/INFO]: fazagustaf was slain by mabay98
+[14:16:30] [Server thread/INFO]: [novan921: Teleported novan921 to mabay98]
+[14:16:30] [Server thread/INFO]: mabay98 has made the advancement [Getting an Upgrade]
+[14:16:30] [Server thread/INFO]: mabay98 has made the advancement [Suit Up]
+[14:16:38] [Server thread/INFO]: [novan921: Teleported novan921 to mabay98]
+[14:16:49] [Server thread/INFO]: zaky has made the advancement [Getting an Upgrade]
+[14:16:53] [Server thread/INFO]: zaky has made the advancement [Suit Up]
+[14:16:54] [Server thread/INFO]: [novan921: Set own game mode to Creative Mode]
+[14:17:47] [Server thread/INFO]: [mabay98: Made novan921 no longer a server operator]
+[14:17:47] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:17:52] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:17:52] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:18:09] [Server thread/INFO]: [mabay98: Set novan921's game mode to Survival Mode]
+[14:18:38] [Server thread/INFO]: <mabay98> wkwkkwkwkwk
+[14:20:20] [Server thread/INFO]: [mabay98: Set own game mode to Survival Mode]
+[14:20:25] [Server thread/INFO]: [mabay98: Made novan921 a server operator]
+[14:20:52] [Server thread/INFO]: zaky has made the advancement [Acquire Hardware]
+[14:22:36] [Server thread/INFO]: [novan921: Teleported novan921 to mabay98]
+[14:23:18] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:18] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:18] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:18] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:18] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:18] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:18] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:18] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:18] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:18] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:18] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:18] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:23:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:24:22] [Server thread/INFO]: [mabay98: Teleported mabay98 to novan921]
+[14:24:22] [Server thread/WARN]: mabay98 moved too quickly! -16.983755999905185,0.0,-2.0564092286972198
+[14:24:22] [Server thread/WARN]: mabay98 moved too quickly! -16.983755999905185,0.0,-2.0564092286972198
+[14:24:36] [Server thread/INFO]: [mabay98: Teleported novan921 to fazagustaf]
+[14:24:39] [Server thread/INFO]: novan921 has made the advancement [Stone Age]
+[14:24:42] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:24:42] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:24:42] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:24:42] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:24:42] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:24:42] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:24:42] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:24:42] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:24:47] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:24:47] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:24:47] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:24:47] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:02] [Server thread/INFO]: [mabay98: Teleported novan921 to mabay98]
+[14:25:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:04] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:07] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:07] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:07] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:07] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:07] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:45] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:48] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:25:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[14:26:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[14:26:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:32] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:26:32] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[14:27:16] [Server thread/INFO]: zaky has made the advancement [Stone Age]
+[14:27:33] [Server thread/INFO]: [mabay98: Set the time to 1000]
+[14:27:33] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:28:19] [Server thread/INFO]: zaky has made the advancement [Diamonds!]
+[14:29:21] [Server thread/INFO]: [novan921: Teleported novan921 to mabay98]
+[14:30:40] [Server thread/INFO]: novan921 has made the advancement [Getting an Upgrade]
+[14:37:11] [Server thread/INFO]: novan921 lost connection: Disconnected
+[14:37:11] [Server thread/INFO]: novan921 left the game
+[14:39:25] [Server thread/INFO]: novan921[/139.192.105.56:57137] logged in with entity id 6172 at (117.99478472026668, 63.0, 204.29914300739475)
+[14:39:25] [Server thread/INFO]: novan921 joined the game
+[14:41:43] [Server thread/INFO]: novan921 lost connection: Disconnected
+[14:41:43] [Server thread/INFO]: novan921 left the game
+[14:42:25] [Server thread/INFO]: [mabay98: Teleported fazagustaf to mabay98]
+[14:42:25] [Server thread/WARN]: fazagustaf moved too quickly! 23.29302005411708,44.0,-106.52794225354137
+[14:42:51] [Server thread/INFO]: [mabay98: Teleported fazagustaf to zaky]
+[14:42:51] [Server thread/WARN]: fazagustaf moved too quickly! -420.77629283870425,-56.0,-10.846232577366038
+[14:42:58] [Server thread/INFO]: novan921[/139.192.105.56:57305] logged in with entity id 7327 at (117.99478472026668, 63.0, 204.29914300739475)
+[14:42:58] [Server thread/INFO]: novan921 joined the game
+[14:43:10] [Server thread/INFO]: [mabay98: Teleported fazagustaf to mabay98]
+[14:43:14] [Server thread/INFO]: [novan921: Teleported novan921 to mabay98]
+[14:44:37] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:45:08] [Server thread/INFO]: zaky lost connection: Disconnected
+[14:45:08] [Server thread/INFO]: zaky left the game
+[14:45:13] [Server thread/INFO]: fazagustaf lost connection: Disconnected
+[14:45:13] [Server thread/INFO]: fazagustaf left the game
+[14:45:13] [Server thread/INFO]: novan921 lost connection: Disconnected
+[14:45:13] [Server thread/INFO]: novan921 left the game
+[14:46:53] [Server thread/INFO]: fazagustaf[/158.140.172.207:59132] logged in with entity id 8078 at (152.40873122972596, 64.0, 205.84062497765325)
+[14:46:53] [Server thread/INFO]: fazagustaf joined the game
+[14:47:32] [Server thread/INFO]: fazagustaf lost connection: Timed out
+[14:47:32] [Server thread/INFO]: fazagustaf left the game
+[14:48:23] [Server thread/INFO]: novan921[/139.192.105.56:57461] logged in with entity id 8233 at (119.74827865377833, 50.0, 160.69999998807907)
+[14:48:23] [Server thread/INFO]: novan921 joined the game
+[14:48:56] [Server thread/INFO]: novan921 lost connection: Timed out
+[14:48:56] [Server thread/INFO]: novan921 left the game
+[14:50:13] [Server thread/INFO]: [mabay98: Gave 64 [Cooked Chicken] to mabay98]
+[14:51:40] [Server thread/INFO]: mabay98 lost connection: Disconnected
+[14:51:40] [Server thread/INFO]: mabay98 left the game
+[14:52:16] [Server thread/INFO]: novan921[/139.192.105.56:57568] logged in with entity id 8591 at (119.74827865377833, 50.0, 160.69999998807907)
+[14:52:16] [Server thread/INFO]: novan921 joined the game
+[14:52:33] [Server thread/INFO]: Earthsea1928[/8.18.195.53:50605] logged in with entity id 8617 at (130.5, 63.0, 229.5)
+[14:52:33] [Server thread/INFO]: Earthsea1928 joined the game
+[14:52:40] [Server thread/INFO]: mabay98[/192.168.1.2:61452] logged in with entity id 8651 at (124.34742595776382, 50.0, 159.3010711109538)
+[14:52:40] [Server thread/INFO]: mabay98 joined the game
+[14:52:50] [Server thread/INFO]: Earthsea1928 lost connection: Timed out
+[14:52:50] [Server thread/INFO]: Earthsea1928 left the game
+[14:52:52] [Server thread/INFO]: fazagustaf[/158.140.172.207:59527] logged in with entity id 8668 at (152.40873122972596, 64.0, 205.84062497765325)
+[14:52:52] [Server thread/INFO]: fazagustaf joined the game
+[14:53:10] [Server thread/INFO]: Earthsea1928[/8.18.195.53:50632] logged in with entity id 8701 at (130.5, 63.0, 229.5)
+[14:53:10] [Server thread/INFO]: Earthsea1928 joined the game
+[14:54:49] [Server thread/INFO]: mabay98 lost connection: Disconnected
+[14:54:49] [Server thread/INFO]: mabay98 left the game
+[14:54:51] [Server thread/INFO]: <Earthsea1928> oi
+[14:55:24] [Server thread/INFO]: Earthsea1928 has made the advancement [A Seedy Place]
+[14:57:21] [Server thread/INFO]: Earthsea1928 has made the advancement [The Parrots and the Bats]
+[14:57:31] [Server thread/INFO]: mabay98[/192.168.1.2:61639] logged in with entity id 9322 at (145.69999998807907, 50.0, 159.69999998807907)
+[14:57:31] [Server thread/INFO]: mabay98 joined the game
+[14:58:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:58:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:58:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:58:26] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[14:58:45] [Server thread/INFO]: Earthsea1928 was slain by Zombie
+[14:58:55] [Server thread/INFO]: <novan921> kekw
+[14:58:56] [Server thread/INFO]: <Earthsea1928> yo why u op @novan921
+[14:59:15] [Server thread/INFO]: Earthsea1928 has made the advancement [Monster Hunter]
+[14:59:15] [Server thread/INFO]: <novan921> :hehe:
+[14:59:49] [Server thread/INFO]: <fazagustaf> zzz
+[14:59:51] [Server thread/INFO]: Earthsea1928 was slain by Enderman
+[15:00:08] [Server thread/INFO]: novan921 lost connection: Disconnected
+[15:00:08] [Server thread/INFO]: novan921 left the game
+[15:00:10] [Server thread/INFO]: mabay98 lost connection: Disconnected
+[15:00:10] [Server thread/INFO]: mabay98 left the game
+[15:00:14] [Server thread/INFO]: <fazagustaf> zzz
+[15:00:35] [Server thread/INFO]: Earthsea1928 has made the advancement [Sweet Dreams]
+[15:00:54] [Server thread/INFO]: fazagustaf lost connection: Timed out
+[15:00:54] [Server thread/INFO]: fazagustaf left the game
+[15:00:58] [Server thread/INFO]: mabay98[/192.168.1.2:61682] logged in with entity id 9785 at (119.94622373712075, 50.0, 159.91200967352552)
+[15:00:58] [Server thread/INFO]: mabay98 joined the game
+[15:01:03] [Server thread/INFO]: fazagustaf[/158.140.172.207:59828] logged in with entity id 9828 at (164.5, 64.0, 210.5)
+[15:01:03] [Server thread/INFO]: fazagustaf joined the game
+[15:01:05] [Server thread/INFO]: novan921[/139.192.105.56:57810] logged in with entity id 9845 at (121.08436494583633, 50.0, 159.54630510967903)
+[15:01:05] [Server thread/INFO]: novan921 joined the game
+[15:01:21] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:01:29] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:01:30] [Server thread/INFO]: mabay98 has made the advancement [Acquire Hardware]
+[15:01:55] [Server thread/INFO]: mabay98 has made the advancement [Isn't It Iron Pick]
+[15:02:24] [Server thread/INFO]: novan921 has made the advancement [Isn't It Iron Pick]
+[15:03:32] [Server thread/INFO]: Earthsea1928 has made the advancement [Getting an Upgrade]
+[15:05:21] [Server thread/INFO]: Earthsea1928 has made the advancement [Stone Age]
+[15:07:09] [Server thread/INFO]: mabay98 has made the advancement [Diamonds!]
+[15:07:11] [Server thread/INFO]: novan921 has made the advancement [Diamonds!]
+[15:10:20] [Server thread/INFO]: novan921 has made the advancement [Monster Hunter]
+[15:13:19] [Server thread/INFO]: Earthsea1928 lost connection: Disconnected
+[15:13:19] [Server thread/INFO]: Earthsea1928 left the game
+[15:13:34] [Server thread/INFO]: Earthsea1928[/139.192.105.56:50684] logged in with entity id 12011 at (102.25631446784871, 54.0, 172.21691106100764)
+[15:13:34] [Server thread/INFO]: Earthsea1928 joined the game
+[15:13:36] [Server thread/INFO]: novan921 lost connection: Disconnected
+[15:13:36] [Server thread/INFO]: novan921 left the game
+[15:13:38] [Server thread/INFO]: mabay98 lost connection: Disconnected
+[15:13:38] [Server thread/INFO]: mabay98 left the game
+[15:13:51] [Server thread/INFO]: Earthsea1928 lost connection: Disconnected
+[15:13:51] [Server thread/INFO]: Earthsea1928 left the game
+[15:14:10] [Server thread/INFO]: novan921[/139.192.105.56:58144] logged in with entity id 12097 at (112.0352710923653, 15.0, 154.1054484149811)
+[15:14:10] [Server thread/INFO]: novan921 joined the game
+[15:14:16] [Server thread/INFO]: <novan921> udah?
+[15:14:16] [Server thread/INFO]: mabay98[/192.168.1.2:61749] logged in with entity id 12142 at (120.21590941345852, 50.0, 159.62727677130215)
+[15:14:16] [Server thread/INFO]: mabay98 joined the game
+[15:14:27] [Server thread/INFO]: Earthsea1928[/139.192.105.56:50712] logged in with entity id 12153 at (124.67613124682391, 76.0, 171.67733098450455)
+[15:14:27] [Server thread/INFO]: Earthsea1928 joined the game
+[15:14:31] [Server thread/INFO]: mabay98 lost connection: Timed out
+[15:14:31] [Server thread/INFO]: mabay98 left the game
+[15:14:36] [Server thread/INFO]: mabay98[/192.168.1.2:61750] logged in with entity id 12172 at (120.21590941345852, 50.0, 159.62727677130215)
+[15:14:36] [Server thread/INFO]: mabay98 joined the game
+[15:14:37] [Server thread/INFO]: fazagustaf fell from a high place
+[15:18:50] [Server thread/INFO]: Earthsea1928 has made the advancement [Acquire Hardware]
+[15:19:01] [Server thread/INFO]: Earthsea1928 has made the advancement [Isn't It Iron Pick]
+[15:19:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:19:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:19:25] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:20:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Iron Ore'/13149, l='ServerLevel[Rok UM]', x=64.88, y=15.00, z=171.67]
+[15:22:32] [Server thread/INFO]: mabay98 has made the advancement [Hot Stuff]
+[15:23:00] [Server thread/INFO]: zaky[/66.96.225.123:56669] logged in with entity id 13828 at (-314.963190114204, 7.0, 193.03945740035599)
+[15:23:00] [Server thread/INFO]: zaky joined the game
+[15:23:34] [Server thread/INFO]: Earthsea1928 has made the advancement [Hot Stuff]
+[15:25:03] [Server thread/INFO]: RoseAstley12[/158.140.161.171:60409] logged in with entity id 14798 at (125.5, 63.0, 229.5)
+[15:25:03] [Server thread/INFO]: RoseAstley12 joined the game
+[15:25:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=121, y=62, z=233}
+[15:25:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=121, y=62, z=233}
+[15:25:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=121, y=62, z=233}
+[15:26:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Coal'/15173, l='ServerLevel[Rok UM]', x=83.13, y=19.10, z=148.13]
+[15:26:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=63, y=14, z=170} fx{x=118, y=62, z=236}
+[15:26:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=63, y=14, z=170} fx{x=117, y=62, z=239}
+[15:26:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=63, y=14, z=170} fx{x=116, y=62, z=239}
+[15:26:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=63, y=14, z=170} fx{x=122, y=62, z=240}
+[15:26:59] [Server thread/INFO]: novan921 has made the advancement [Suit Up]
+[15:29:07] [Server thread/INFO]: novan921 lost connection: Disconnected
+[15:29:07] [Server thread/INFO]: novan921 left the game
+[15:29:09] [Server thread/INFO]: RoseAstley12 has made the advancement [Isn't It Iron Pick]
+[15:29:32] [Server thread/INFO]: RoseAstley12 has made the advancement [Stone Age]
+[15:31:55] [Server thread/INFO]: Earthsea1928 lost connection: Disconnected
+[15:31:55] [Server thread/INFO]: Earthsea1928 left the game
+[15:35:33] [Server thread/INFO]: RoseAstley12 has made the advancement [Acquire Hardware]
+[15:37:08] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:37:08] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:37:08] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:38:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=214, y=75, z=202} fx{x=206, y=74, z=196}
+[15:38:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=214, y=75, z=202} fx{x=206, y=74, z=196}
+[15:38:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=214, y=75, z=202} fx{x=206, y=74, z=196}
+[15:39:20] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:41:47] [Server thread/INFO]: RoseAstley12 has made the advancement [Suit Up]
+[15:43:05] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:43:05] [Server thread/WARN]: Ignoring unknown attribute 'forge:reach_distance'
+[15:43:05] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[15:43:05] [Server thread/INFO]: kazo[/66.96.225.123:7965] logged in with entity id 20487 at (-40.95606755108764, 8.0, 153.70094123218655)
+[15:43:05] [Server thread/INFO]: kazo joined the game
+[15:43:32] [Server thread/INFO]: <kazo> hallo kontor
+[15:45:38] [Server thread/INFO]: mabay98 has made the advancement [Sweet Dreams]
+[15:45:46] [Server thread/INFO]: zaky lost connection: Disconnected
+[15:45:46] [Server thread/INFO]: zaky left the game
+[15:45:50] [Server thread/INFO]: kazo lost connection: Disconnected
+[15:45:50] [Server thread/INFO]: kazo left the game
+[15:46:01] [Server thread/INFO]: zaky[/66.96.225.123:1839] logged in with entity id 21448 at (-45.44813567348895, 7.0, 183.0800804254471)
+[15:46:01] [Server thread/INFO]: zaky joined the game
+[15:46:26] [Server thread/INFO]: kazo[/66.96.225.123:2904] logged in with entity id 21543 at (-52.50047820801321, 8.0, 134.07122705835388)
+[15:46:26] [Server thread/INFO]: kazo joined the game
+[15:47:39] [Server thread/INFO]: RoseAstley12 has made the advancement [Not Today, Thank You]
+[15:50:14] [Server thread/INFO]: [mabay98: Teleported mabay98 to fazagustaf]
+[15:50:14] [Server thread/WARN]: mabay98 moved too quickly! -103.59386953068096,-53.0,27.07918978286682
+[15:53:34] [Server thread/INFO]: zaky has made the advancement [Cover Me With Diamonds]
+[15:54:03] [Server thread/INFO]: zaky has made the advancement [Isn't It Iron Pick]
+[15:54:19] [Server thread/INFO]: RoseAstley12 has made the advancement [Monster Hunter]
+[15:55:41] [Server thread/INFO]: mabay98 lost connection: Disconnected
+[15:55:41] [Server thread/INFO]: mabay98 left the game
+[15:55:43] [Server thread/INFO]: mabay98[/192.168.1.2:61978] logged in with entity id 24008 at (78.3280552659379, 38.0, 207.69999998807907)
+[15:55:43] [Server thread/INFO]: mabay98 joined the game
+[15:56:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Andesite'/24219, l='ServerLevel[Rok UM]', x=68.88, y=36.15, z=202.68]
+[16:00:31] [Server thread/INFO]: [mabay98: Teleported mabay98 to fazagustaf]
+[16:14:53] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/30867, l='ServerLevel[Rok UM]', x=-540.40, y=7.68, z=193.55]
+[16:19:34] [Server thread/INFO]: mabay98 has made the advancement [The Parrots and the Bats]
+[16:19:42] [Server thread/INFO]: Earthsea1928[/139.192.105.56:50964] logged in with entity id 33018 at (32.43813365904399, 11.0, 244.86006208505685)
+[16:19:42] [Server thread/INFO]: Earthsea1928 joined the game
+[16:19:51] [Server thread/INFO]: novan921[/139.192.105.56:59859] logged in with entity id 33059 at (117.33127138229425, 11.0, 155.40095357146473)
+[16:19:51] [Server thread/INFO]: novan921 joined the game
+[16:20:06] [Server thread/INFO]: Earthsea1928 lost connection: Disconnected
+[16:20:06] [Server thread/INFO]: Earthsea1928 left the game
+[16:20:19] [Server thread/INFO]: novan921 lost connection: Timed out
+[16:20:19] [Server thread/INFO]: novan921 left the game
+[16:20:23] [Server thread/INFO]: Earthsea1928[/139.192.105.56:50972] logged in with entity id 33234 at (32.689431701878135, 11.0, 231.77536112869703)
+[16:20:23] [Server thread/INFO]: Earthsea1928 joined the game
+[16:20:31] [Server thread/INFO]: fazagustaf has made the advancement [We Need to Go Deeper]
+[16:20:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-273, y=8, z=99} fx{x=-276, y=8, z=99}
+[16:20:44] [Server thread/INFO]: RoseAstley12 lost connection: Disconnected
+[16:20:44] [Server thread/INFO]: RoseAstley12 left the game
+[16:20:52] [Server thread/INFO]: RoseAstley12[/158.140.161.171:60706] logged in with entity id 33598 at (21.481759898037645, 11.0, 257.3266633705946)
+[16:20:52] [Server thread/INFO]: RoseAstley12 joined the game
+[16:21:04] [Server thread/INFO]: novan921[/139.192.105.56:59894] logged in with entity id 33701 at (117.69625896165671, 11.0, 154.2760041536038)
+[16:21:04] [Server thread/INFO]: novan921 joined the game
+[16:21:25] [Server thread/INFO]: novan921 lost connection: Timed out
+[16:21:25] [Server thread/INFO]: novan921 left the game
+[16:21:55] [Server thread/INFO]: mabay98 lost connection: Disconnected
+[16:21:55] [Server thread/INFO]: mabay98 left the game
+[16:23:10] [Server thread/INFO]: Earthsea1928 lost connection: Disconnected
+[16:23:10] [Server thread/INFO]: Earthsea1928 left the game
+[16:23:27] [Server thread/INFO]: Earthsea1928[/139.192.105.56:50989] logged in with entity id 34670 at (21.30000001192093, 22.0, 280.78981140676325)
+[16:23:27] [Server thread/INFO]: Earthsea1928 joined the game
+[16:23:29] [Server thread/INFO]: mabay98[/192.168.1.2:62091] logged in with entity id 34695 at (155.11384483452994, 64.0, 216.30911002837468)
+[16:23:29] [Server thread/INFO]: mabay98 joined the game
+[16:23:58] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/34969, l='ServerLevel[Rok UM]', x=20.46, y=22.59, z=271.36]
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:58] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:23:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:24:44] [Server thread/INFO]: Earthsea1928 tried to swim in lava to escape Skeleton
+[16:25:49] [Server thread/INFO]: <mabay98> ganti server ya, ngelag
+[16:25:56] [Server thread/INFO]: <Earthsea1928> ya tunggu
+[16:26:11] [Server thread/INFO]: <zaky> itemnya simpen di chest semua biar nggak ilang
+[16:26:14] [Server thread/INFO]: <Earthsea1928> yoi
+[16:27:08] [Server thread/INFO]: fazagustaf lost connection: Disconnected
+[16:27:08] [Server thread/INFO]: fazagustaf left the game
+[16:27:25] [Server thread/INFO]: zaky lost connection: Disconnected
+[16:27:25] [Server thread/INFO]: zaky left the game
+[16:27:37] [Server thread/INFO]: Earthsea1928 lost connection: Disconnected
+[16:27:37] [Server thread/INFO]: Earthsea1928 left the game
+[16:27:49] [Server thread/INFO]: RoseAstley12 lost connection: Disconnected
+[16:27:49] [Server thread/INFO]: RoseAstley12 left the game
+[16:28:32] [Server thread/INFO]: mabay98 lost connection: Disconnected
+[16:28:32] [Server thread/INFO]: mabay98 left the game
+[16:28:46] [Server thread/INFO]: kazo lost connection: Disconnected
+[16:28:46] [Server thread/INFO]: kazo left the game
+[16:28:50] [Server thread/INFO]: Stopping the server
+[16:28:50] [Server thread/INFO]: Stopping server
+[16:28:50] [Server thread/INFO]: Saving players
+[16:28:50] [Server thread/INFO]: Saving worlds
+[16:28:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:overworld
+[16:28:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:28:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_nether
+[16:28:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:28:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_end
+[16:28:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:28:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:28:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:28:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
