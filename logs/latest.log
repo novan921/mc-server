@@ -1,165 +1,297 @@
-[07:05:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07:05:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07:05:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:05:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:05:14] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07:05:14] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:05:14] [main/INFO]: Reloading ResourceManager: Default
-[07:05:16] [Worker-Main-12/INFO]: Loaded 7 recipes
-[07:05:19] [Worker-Main-12/INFO]: Loaded 927 advancements
-[07:05:22] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[07:05:23] [Server thread/INFO]: Loading properties
-[07:05:23] [Server thread/INFO]: Default game type: SURVIVAL
-[07:05:23] [Server thread/INFO]: Generating keypair
-[07:05:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:05:23] [Server thread/INFO]: Using default channel type
-[07:05:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:05:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:05:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:05:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:05:28] [Server thread/INFO]: Preparing level "world"
-[07:05:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:05:30] [Server thread/INFO]: Preparing spawn area: 0%
-[07:05:31] [Server thread/INFO]: Preparing spawn area: 0%
-[07:05:31] [Server thread/INFO]: Preparing spawn area: 0%
-[07:05:31] [Server thread/INFO]: Preparing spawn area: 0%
-[07:05:31] [Server thread/INFO]: Preparing spawn area: 0%
-[07:05:31] [Server thread/INFO]: Preparing spawn area: 0%
-[07:05:31] [Server thread/INFO]: Preparing spawn area: 0%
-[07:05:31] [Server thread/INFO]: Preparing spawn area: 0%
-[07:05:32] [Server thread/INFO]: Preparing spawn area: 60%
-[07:05:35] [Server thread/INFO]: Time elapsed: 7177 ms
-[07:05:35] [Server thread/INFO]: Done (7.517s)! For help, type "help"
-[07:05:58] [Server thread/INFO]: diewax[/125.160.227.103:20674] logged in with entity id 150 at (-118.5, 71.0, -19.5)
-[07:05:58] [Server thread/INFO]: diewax joined the game
-[07:06:04] [Server thread/INFO]: novan921[/26.185.128.140:60612] logged in with entity id 179 at (-149.52338895112817, 63.0, 28.183508519091138)
-[07:06:04] [Server thread/INFO]: novan921 joined the game
-[07:06:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-116, y=70, z=-19}
-[07:06:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-116, y=70, z=-19}
-[07:06:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-117, y=70, z=-19}
-[07:06:49] [Server thread/INFO]: [novan921: Teleported novan921 to diewax]
-[07:06:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-117, y=70, z=-19}
-[07:06:59] [Server thread/INFO]: <novan921> kontol
-[07:07:03] [Server thread/INFO]: <novan921> KWOAKWAO
-[07:07:12] [Server thread/INFO]: <diewax> kontol
-[07:07:21] [Server thread/INFO]: <novan921> KWOAWKAOKWAO
-[07:07:25] [Server thread/INFO]: <novan921> dah bsa kan
-[07:07:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-115, y=71, z=-24}
-[07:07:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-115, y=71, z=-23}
-[07:07:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-115, y=72, z=-22}
-[07:07:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-115, y=71, z=-21}
-[07:07:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-116, y=70, z=-21}
-[07:07:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-116, y=70, z=-20}
-[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-116, y=70, z=-21}
-[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-116, y=70, z=-20}
-[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-117, y=70, z=-20}
-[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-118, y=70, z=-20}
-[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-118, y=70, z=-19}
-[07:07:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-118, y=70, z=-20}
-[07:07:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-119, y=68, z=-20}
-[07:07:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-120, y=68, z=-20}
-[07:07:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-120, y=69, z=-19}
-[07:07:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-120, y=70, z=-18}
-[07:07:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-120, y=70, z=-17}
-[07:07:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-120, y=70, z=-16}
-[07:07:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-121, y=70, z=-16}
-[07:07:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-121, y=70, z=-15}
-[07:07:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-121, y=70, z=-16}
-[07:07:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-120, y=70, z=-16}
-[07:07:51] [Server thread/INFO]: <novan921> block yg deket respawn
-[07:07:55] [Server thread/INFO]: <novan921> gabisa diancurin
-[07:07:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-119, y=72, z=-17}
-[07:07:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-119, y=71, z=-17}
-[07:07:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-119, y=72, z=-17}
-[07:08:06] [Server thread/INFO]: <novan921> coba yg sini
-[07:08:21] [Server thread/INFO]: <diewax> mana anj
-[07:08:26] [Server thread/INFO]: diewax hit the ground too hard whilst trying to escape Zombie
-[07:08:32] [Server thread/INFO]: <novan921> WAOKWAOKWA
-[07:08:32] [Server thread/INFO]: <diewax> KOWAKOWAK
-[07:08:43] [Server thread/INFO]: [novan921: Teleported novan921 to diewax]
-[07:08:48] [Server thread/INFO]: <novan921> nah
-[07:08:49] [Server thread/INFO]: <diewax> oh iya cok
-[07:08:51] [Server thread/INFO]: <novan921> bisa kan
-[07:09:01] [Server thread/INFO]: <novan921> block2 yg deket respawn tu gabisa diancurin
-[07:09:14] [Server thread/INFO]: <novan921> sek
-[07:09:25] [Server thread/INFO]: <novan921> nyoba jadiin lu operator
-[07:09:32] [Server thread/INFO]: Made diewax a server operator
-[07:09:40] [Server thread/INFO]: <novan921> buka console wa
-[07:09:44] [Server thread/INFO]: <novan921> pake /
-[07:09:51] [Server thread/INFO]: <novan921> trus ketik
-[07:09:52] [Server thread/INFO]: diewax fell out of the world
-[07:09:52] [Server thread/INFO]: [diewax: Killed diewax]
-[07:09:55] [Server thread/INFO]: <novan921> goblok
-[07:09:58] [Server thread/INFO]: <novan921> KWOAKWOAKWAO
-[07:09:59] [Server thread/INFO]: <diewax> awkoakwoakwoakowa
-[07:10:05] [Server thread/INFO]: [novan921: Teleported novan921 to diewax]
-[07:10:19] [Server thread/INFO]: <novan921> ketik coba
-[07:10:25] [Server thread/INFO]: <novan921> gamemode createive
-[07:10:28] [Server thread/INFO]: <novan921> creative
-[07:10:47] [Server thread/INFO]: <novan921> bsa ga
-[07:10:51] [Server thread/INFO]: [diewax: Set own game mode to Creative Mode]
-[07:10:54] [Server thread/INFO]: <novan921> nah
-[07:10:55] [Server thread/INFO]: <diewax> wow
-[07:10:58] [Server thread/INFO]: <novan921> dah jd creative
-[07:11:02] [Server thread/INFO]: <novan921> buka inventoru
-[07:11:05] [Server thread/INFO]: <novan921> pencet e
-[07:11:13] [Server thread/INFO]: <diewax> pog
-[07:11:18] [Server thread/INFO]: <novan921> tu kalo creative
-[07:11:20] [Server thread/INFO]: <novan921> ada smua
-[07:11:29] [Server thread/INFO]: diewax has reached the goal [Sky's the Limit]
-[07:11:42] [Server thread/INFO]: novan921 has reached the goal [Sky's the Limit]
-[07:11:53] [Server thread/INFO]: <novan921> firework
-[07:12:06] [Server thread/INFO]: <diewax> g bsa
-[07:12:08] [Server thread/INFO]: <diewax> anj
-[07:12:10] [Server thread/INFO]: <diewax> akwokaowkao
-[07:12:10] [Server thread/INFO]: <novan921> ganti gamemode dlu
-[07:12:15] [Server thread/INFO]: <novan921> jgn creative
-[07:12:21] [Server thread/INFO]: [novan921: Set own game mode to Survival Mode]
-[07:12:43] [Server thread/INFO]: [novan921: Gave 128 [Firework Rocket] to novan921]
-[07:12:43] [Server thread/INFO]: [diewax: Set own game mode to Survival Mode]
-[07:12:56] [Server thread/INFO]: <novan921> pencet space 2x
-[07:13:08] [Server thread/INFO]: <novan921> trus klik kanan fireworks
-[07:13:14] [Server thread/INFO]: <novan921> nih
-[07:13:16] [Server thread/INFO]: <novan921> w kasi dah
-[07:13:32] [Server thread/INFO]: <diewax> wow
-[07:13:49] [Server thread/INFO]: <novan921> awas jatoh
-[07:13:52] [Server thread/INFO]: <novan921> ato nabrak
-[07:13:56] [Server thread/INFO]: <novan921> bisa mati
-[07:13:58] [Server thread/INFO]: <novan921> kekw
-[07:14:05] [Server thread/INFO]: <diewax> WKOAKWOA
-[07:14:10] [Server thread/INFO]: <diewax> ke bulan w ini
-[07:14:30] [Server thread/INFO]: <novan921> acok
-[07:14:35] [Server thread/INFO]: <novan921> ngelek w
-[07:14:40] [Server thread/INFO]: <novan921> kekw
-[07:15:16] [Server thread/INFO]: <novan921> ngedep atas cok
-[07:15:20] [Server thread/INFO]: <diewax> kaokOWKOWKA
-[07:15:57] [Server thread/INFO]: [novan921: Gave 128 [Firework Rocket] to novan921]
-[07:16:20] [Server thread/INFO]: <novan921> ya gtu deh
-[07:16:25] [Server thread/INFO]: <novan921> ni server aing
-[07:16:32] [Server thread/INFO]: <novan921> tar maen nya yg di server paja dkk
-[07:16:50] [Server thread/INFO]: <diewax> wkaokwoa
-[07:16:50] [Server thread/INFO]: <novan921> dah di set macem2 semalem
-[07:16:51] [Server thread/INFO]: <diewax> oks
-[07:16:54] [Server thread/INFO]: <novan921> ama bayoe
-[07:17:18] [Server thread/INFO]: <novan921> enak nya
-[07:17:22] [Server thread/INFO]: <novan921> kalo server sendiri
-[07:17:28] [Server thread/INFO]: <novan921> ada ginian nya
-[07:17:31] [Server thread/INFO]: <novan921> cek disc
-[07:17:35] [Server thread/INFO]: <diewax> wat
-[07:19:42] [Server thread/INFO]: novan921 lost connection: Disconnected
-[07:19:42] [Server thread/INFO]: novan921 left the game
-[07:19:43] [Server thread/INFO]: diewax lost connection: Disconnected
-[07:19:43] [Server thread/INFO]: diewax left the game
-[07:25:55] [Server thread/INFO]: Stopping the server
-[07:25:56] [Server thread/INFO]: Stopping server
-[07:25:56] [Server thread/INFO]: Saving players
-[07:25:56] [Server thread/INFO]: Saving worlds
-[07:25:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:25:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:25:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:25:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:25:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:25:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:25:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:25:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:25:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:44:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:44:46] [main/WARN]: Missing data pack mod:forge
+[13:44:46] [main/WARN]: Missing data pack mod:tlskincape
+[13:44:47] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:44:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:44:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:44:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:44:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:44:47] [main/INFO]: Reloading ResourceManager: Default
+[13:44:47] [Worker-Main-9/INFO]: Loaded 7 recipes
+[13:44:47] [Worker-Main-9/INFO]: Loaded 927 advancements
+[13:44:48] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[13:44:48] [Server thread/INFO]: Loading properties
+[13:44:48] [Server thread/INFO]: Default game type: SURVIVAL
+[13:44:48] [Server thread/INFO]: Generating keypair
+[13:44:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:44:49] [Server thread/INFO]: Using default channel type
+[13:44:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:44:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:44:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:44:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:44:49] [Server thread/INFO]: Preparing level "world"
+[13:44:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:44:50] [Server thread/INFO]: Preparing spawn area: 0%
+[13:44:50] [Server thread/INFO]: Preparing spawn area: 0%
+[13:44:50] [Server thread/INFO]: Preparing spawn area: 0%
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:44:51] [Server thread/INFO]: Time elapsed: 1809 ms
+[13:44:51] [Server thread/INFO]: Done (1.899s)! For help, type "help"
+[13:45:46] [Server thread/INFO]: mabay98[/192.168.1.2:60626] logged in with entity id 290 at (129.5, 63.0, 228.5)
+[13:45:46] [Server thread/INFO]: mabay98 joined the game
+[13:45:54] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:45:54] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:45:54] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:45:54] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:45:54] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:45:54] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:45:54] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:45:54] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:45:54] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:45:54] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:46:06] [Server thread/INFO]: mabay98 lost connection: Disconnected
+[13:46:06] [Server thread/INFO]: mabay98 left the game
+[13:46:16] [Server thread/INFO]: mabay98[/192.168.1.2:60636] logged in with entity id 326 at (130.8062001695522, 63.0, 220.42216601602382)
+[13:46:16] [Server thread/INFO]: mabay98 joined the game
+[13:46:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:46:59] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:47:22] [Server thread/INFO]: novan921[/139.192.105.56:55443] logged in with entity id 428 at (135.5, 64.0, 216.5)
+[13:47:22] [Server thread/INFO]: novan921 joined the game
+[13:47:29] [Server thread/INFO]: mabay98 has made the advancement [Stone Age]
+[13:47:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:47:30] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:47:31] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[13:47:57] [Server thread/INFO]: novan921 lost connection: Disconnected
+[13:47:57] [Server thread/INFO]: novan921 left the game
+[13:47:58] [Server thread/INFO]: mabay98 lost connection: Disconnected
+[13:47:58] [Server thread/INFO]: mabay98 left the game
+[13:48:05] [Server thread/INFO]: Stopping the server
+[13:48:05] [Server thread/INFO]: Stopping server
+[13:48:05] [Server thread/INFO]: Saving players
+[13:48:05] [Server thread/INFO]: Saving worlds
+[13:48:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:overworld
+[13:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:48:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_nether
+[13:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:48:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_end
+[13:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
