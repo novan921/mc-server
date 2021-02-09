@@ -297,10 +297,12 @@
     "criteria": {
       "cooked_mutton": "2021-02-08 15:27:56 +0700",
       "cooked_beef": "2021-02-08 15:43:35 +0700",
+      "beef": "2021-02-09 16:19:48 +0700",
       "apple": "2021-02-08 17:50:27 +0700",
       "bread": "2021-02-08 17:43:43 +0700",
       "rotten_flesh": "2021-02-08 18:05:54 +0700",
-      "cooked_chicken": "2021-02-08 18:35:07 +0700"
+      "cooked_chicken": "2021-02-08 18:35:07 +0700",
+      "carrot": "2021-02-09 15:26:54 +0700"
     },
     "done": false
   },
@@ -433,6 +435,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-02-08 18:43:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2021-02-09 16:03:22 +0700"
     },
     "done": true
   },
@@ -699,6 +707,7 @@
       "minecraft:skeleton": "2021-02-08 15:54:19 +0700",
       "minecraft:spider": "2021-02-09 14:27:44 +0700",
       "minecraft:creeper": "2021-02-08 17:53:51 +0700",
+      "minecraft:phantom": "2021-02-09 16:33:34 +0700",
       "minecraft:cave_spider": "2021-02-08 18:27:50 +0700",
       "minecraft:zombie": "2021-02-08 17:50:21 +0700"
     },
@@ -743,6 +752,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_dark_oak_planks": "2021-02-09 14:41:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2021-02-09 16:03:22 +0700"
     },
     "done": true
   },
@@ -1290,6 +1305,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-02-09 16:48:07 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2021-02-08 15:31:53 +0700"
@@ -1431,6 +1452,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2021-02-08 15:34:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-02-09 16:03:22 +0700"
     },
     "done": true
   },
