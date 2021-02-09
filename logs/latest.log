@@ -1,67 +1,1232 @@
-[00:00:21] [Server thread/INFO]: kazo has made the advancement [Not Today, Thank You]
-[00:03:14] [Server thread/INFO]: [novan921: Gave 64 [Coal] to novan921]
-[00:03:20] [Server thread/INFO]: [novan921: Gave 64 [Coal] to novan921]
-[00:08:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Wheat Seeds'/73607, l='ServerLevel[Rok UM]', x=165.26, y=63.13, z=236.92]
-[00:08:43] [Server thread/WARN]: Fetching packet for removed entity bcv['Wheat'/73667, l='ServerLevel[Rok UM]', x=163.75, y=63.37, z=255.58]
-[00:08:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Wheat Seeds'/73865, l='ServerLevel[Rok UM]', x=161.80, y=63.03, z=256.10]
-[00:08:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Wheat Seeds'/73863, l='ServerLevel[Rok UM]', x=162.72, y=62.94, z=257.36]
-[00:12:39] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/74750, l='ServerLevel[Rok UM]', x=107.75, y=64.14, z=239.25]
-[00:18:30] [Server thread/INFO]: [mabay98: Set the time to 1000]
-[00:22:51] [Server thread/INFO]: [novan921: Set own game mode to Survival Mode]
-[00:23:19] [Server thread/INFO]: [novan921: Teleported novan921 to mabay98]
-[00:23:28] [Server thread/INFO]: [novan921: Set own game mode to Creative Mode]
-[00:24:08] [Server thread/INFO]: mabay98 has completed the challenge [Serious Dedication]
-[00:24:33] [Server thread/INFO]: [novan921: Set own game mode to Survival Mode]
-[00:24:55] [Server thread/INFO]: [novan921: Gave 64 [Dried Kelp] to novan921]
-[00:26:23] [Server thread/INFO]: [novan921: Set own game mode to Creative Mode]
-[00:35:47] [Server thread/INFO]: [mabay98: Set the time to 1000]
-[00:47:42] [Server thread/INFO]: [mabay98: Set the time to 1000]
-[00:48:29] [Server thread/INFO]: [novan921: Teleported novan921 to zaky]
-[00:48:29] [Server thread/WARN]: novan921 moved too quickly! 16.024650526002148,-3.5,-6.744911591982628
-[00:50:59] [Server thread/INFO]: [mabay98: Teleported fazagustaf to kazo]
-[01:00:58] [Server thread/INFO]: [mabay98: Teleported fazagustaf to kazo]
-[01:00:58] [Server thread/WARN]: fazagustaf moved too quickly! -17.20593881442653,2.0,26.93897982752094
-[01:01:01] [Server thread/INFO]: [mabay98: Set the time to 1000]
-[01:08:30] [Server thread/INFO]: zaky has made the advancement [We Need to Go Deeper]
-[01:09:13] [Server thread/INFO]: [mabay98: Teleported fazagustaf to mabay98]
-[01:11:50] [Server thread/INFO]: novan921 lost connection: Disconnected
-[01:11:50] [Server thread/INFO]: novan921 left the game
-[01:12:28] [Server thread/INFO]: [mabay98: Set the time to 1000]
-[01:16:20] [Server thread/INFO]: novan921[/139.192.105.56:57754] logged in with entity id 85412 at (121.0633908013551, 63.0, 225.35900067513765)
-[01:16:20] [Server thread/INFO]: novan921 joined the game
-[01:17:11] [Server thread/INFO]: novan921 lost connection: Disconnected
-[01:17:11] [Server thread/INFO]: novan921 left the game
-[01:18:39] [Server thread/INFO]: kazo lost connection: Disconnected
-[01:18:39] [Server thread/INFO]: kazo left the game
-[01:22:12] [Server thread/INFO]: [mabay98: Set the time to 1000]
-[01:26:45] [Server thread/INFO]: novan921[/139.192.105.56:58117] logged in with entity id 86931 at (105.91441217838005, 63.0, 229.20898027500596)
-[01:26:45] [Server thread/INFO]: novan921 joined the game
-[01:32:26] [Server thread/INFO]: [mabay98: Set the time to 1000]
-[01:36:10] [Server thread/INFO]: [novan921: Successfully filled 91 blocks]
-[01:36:32] [Server thread/INFO]: [novan921: Successfully filled 39 blocks]
-[01:37:01] [Server thread/INFO]: [novan921: Successfully filled 120 blocks]
-[01:37:33] [Server thread/INFO]: [novan921: Successfully filled 6652 blocks]
-[01:38:12] [Server thread/INFO]: [novan921: Successfully filled 6534 blocks]
-[01:38:43] [Server thread/INFO]: [novan921: Successfully filled 4190 blocks]
-[01:40:33] [Server thread/INFO]: mabay98 lost connection: Disconnected
-[01:40:33] [Server thread/INFO]: mabay98 left the game
-[01:40:51] [Server thread/INFO]: [novan921: Teleported novan921 to 256.5, 100.0, -127.5]
-[01:41:02] [Server thread/INFO]: zaky lost connection: Disconnected
-[01:41:02] [Server thread/INFO]: zaky left the game
-[01:41:07] [Server thread/INFO]: fazagustaf lost connection: Disconnected
-[01:41:07] [Server thread/INFO]: fazagustaf left the game
-[01:41:09] [Server thread/INFO]: novan921 lost connection: Disconnected
-[01:41:09] [Server thread/INFO]: novan921 left the game
-[01:41:17] [Server thread/INFO]: Stopping the server
-[01:41:18] [Server thread/INFO]: Stopping server
-[01:41:18] [Server thread/INFO]: Saving players
-[01:41:18] [Server thread/INFO]: Saving worlds
-[01:41:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:overworld
-[01:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:41:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_nether
-[01:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:41:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_end
-[01:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:01:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:01:51] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:01:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:01:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:01:51] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:01:51] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:01:51] [main/INFO]: Reloading ResourceManager: Default
+[15:01:53] [Worker-Main-6/INFO]: Loaded 7 recipes
+[15:01:55] [Worker-Main-6/INFO]: Loaded 927 advancements
+[15:01:58] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[15:01:58] [Server thread/INFO]: Loading properties
+[15:01:58] [Server thread/INFO]: Default game type: SURVIVAL
+[15:01:58] [Server thread/INFO]: Generating keypair
+[15:01:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:01:59] [Server thread/INFO]: Using default channel type
+[15:02:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:02:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:02:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:02:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:02:00] [Server thread/INFO]: Preparing level "world"
+[15:02:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:02:03] [Server thread/INFO]: Preparing spawn area: 0%
+[15:02:03] [Server thread/INFO]: Preparing spawn area: 0%
+[15:02:03] [Server thread/INFO]: Preparing spawn area: 0%
+[15:02:03] [Server thread/INFO]: Preparing spawn area: 0%
+[15:02:03] [Server thread/INFO]: Preparing spawn area: 0%
+[15:02:03] [Server thread/INFO]: Preparing spawn area: 0%
+[15:02:03] [Server thread/INFO]: Preparing spawn area: 0%
+[15:02:05] [Server thread/INFO]: Preparing spawn area: 0%
+[15:02:05] [Server thread/INFO]: Preparing spawn area: 0%
+[15:02:05] [Server thread/INFO]: Preparing spawn area: 0%
+[15:02:05] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[15:02:08] [Server thread/INFO]: Time elapsed: 7923 ms
+[15:02:08] [Server thread/INFO]: Done (8.063s)! For help, type "help"
+[15:02:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[15:02:30] [Server thread/INFO]: novan921[/8.18.195.64:63856] logged in with entity id 301 at (102.98845535651418, 64.0, 248.21451584007073)
+[15:02:30] [Server thread/INFO]: novan921 joined the game
+[15:02:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[15:02:34] [Server thread/INFO]: novan921 lost connection: Disconnected
+[15:02:34] [Server thread/INFO]: novan921 left the game
+[15:02:45] [Server thread/INFO]: novan921[/8.18.195.64:63866] logged in with entity id 319 at (102.98845535651418, 64.0, 248.21451584007073)
+[15:02:45] [Server thread/INFO]: novan921 joined the game
+[15:02:46] [Server thread/INFO]: Earthsea1928[/8.18.195.53:49515] logged in with entity id 320 at (277.88864447362494, 60.0625, 264.74869545739153)
+[15:02:46] [Server thread/INFO]: Earthsea1928 joined the game
+[15:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4034ms or 80 ticks behind
+[15:02:52] [Server thread/INFO]: RoseAstley12[/158.140.161.171:51573] logged in with entity id 413 at (200.7171824815182, 63.0, 241.57499320047324)
+[15:02:52] [Server thread/INFO]: RoseAstley12 joined the game
+[15:03:01] [Server thread/INFO]: <Earthsea1928> hello
+[15:03:05] [Server thread/INFO]: <Earthsea1928> erm
+[15:03:09] [Server thread/INFO]: <Earthsea1928> the fak
+[15:03:13] [Server thread/INFO]: <Earthsea1928> chat cum?
+[15:03:16] [Server thread/INFO]: novan921 lost connection: Timed out
+[15:03:16] [Server thread/INFO]: novan921 left the game
+[15:03:16] [Server thread/INFO]: RoseAstley12 lost connection: Timed out
+[15:03:16] [Server thread/INFO]: RoseAstley12 left the game
+[15:03:21] [Server thread/INFO]: Earthsea1928 lost connection: Timed out
+[15:03:21] [Server thread/INFO]: Earthsea1928 left the game
+[15:03:24] [Server thread/INFO]: RoseAstley12[/158.140.161.171:51578] logged in with entity id 559 at (204.99452385106028, 66.17675927506424, 236.15183150181784)
+[15:03:24] [Server thread/INFO]: RoseAstley12 joined the game
+[15:03:28] [Server thread/INFO]: Earthsea1928[/8.18.195.53:49518] logged in with entity id 581 at (277.4948645648221, 60.0, 262.767867012969)
+[15:03:28] [Server thread/INFO]: Earthsea1928 joined the game
+[15:03:32] [Server thread/INFO]: novan921[/8.18.195.64:63886] logged in with entity id 629 at (102.98845535651418, 64.0, 248.21451584007073)
+[15:03:32] [Server thread/INFO]: novan921 joined the game
+[15:03:54] [Server thread/INFO]: Earthsea1928 lost connection: Timed out
+[15:03:54] [Server thread/INFO]: Earthsea1928 left the game
+[15:04:00] [Server thread/INFO]: novan921 lost connection: Disconnected
+[15:04:00] [Server thread/INFO]: novan921 left the game
+[15:04:13] [Server thread/INFO]: Earthsea1928[/8.18.195.53:49522] logged in with entity id 708 at (277.4948645648221, 60.0, 262.767867012969)
+[15:04:13] [Server thread/INFO]: Earthsea1928 joined the game
+[15:06:15] [Server thread/INFO]: RoseAstley12 lost connection: Disconnected
+[15:06:15] [Server thread/INFO]: RoseAstley12 left the game
+[15:06:22] [Server thread/INFO]: RoseAstley12[/158.140.161.171:51643] logged in with entity id 1057 at (204.54232135462007, 63.0, 247.63556083499313)
+[15:06:22] [Server thread/INFO]: RoseAstley12 joined the game
+[15:06:39] [Server thread/INFO]: RoseAstley12 lost connection: Timed out
+[15:06:39] [Server thread/INFO]: RoseAstley12 left the game
+[15:06:46] [Server thread/INFO]: RoseAstley12[/158.140.161.171:51647] logged in with entity id 1113 at (204.58908356806361, 64.17675927506424, 248.86586724355496)
+[15:06:46] [Server thread/INFO]: RoseAstley12 joined the game
+[15:06:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:06:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:01] [Server thread/INFO]: RoseAstley12 lost connection: Disconnected
+[15:07:01] [Server thread/INFO]: RoseAstley12 left the game
+[15:07:01] [Server thread/WARN]: handleDisconnection() called twice
+[15:07:17] [Server thread/INFO]: RoseAstley12[/158.140.161.171:51657] logged in with entity id 1171 at (204.58908356806361, 64.17675927506424, 248.86586724355496)
+[15:07:17] [Server thread/INFO]: RoseAstley12 joined the game
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:23] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:24] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:25] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:26] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:27] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:28] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:29] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:30] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:31] [Server thread/INFO]: RoseAstley12 lost connection: Flying is not enabled on this server
+[15:07:31] [Server thread/INFO]: RoseAstley12 left the game
+[15:07:46] [Server thread/INFO]: RoseAstley12[/158.140.161.171:51663] logged in with entity id 1232 at (204.58908356806361, 64.17675927506424, 248.86586724355496)
+[15:07:46] [Server thread/INFO]: RoseAstley12 joined the game
+[15:07:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:52] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:53] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/INFO]: zaky[/66.96.225.99:47669] logged in with entity id 1282 at (-114.72275415473264, 69.88193809565487, 402.69999998807907)
+[15:07:55] [Server thread/INFO]: zaky joined the game
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:07:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:08] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:09] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:10] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:11] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:12] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:13] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:14] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:15] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:16] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:17] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:18] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:18] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:18] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:18] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:18] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:18] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:18] [Server thread/INFO]: RoseAstley12 lost connection: Timed out
+[15:08:18] [Server thread/INFO]: RoseAstley12 left the game
+[15:08:27] [Server thread/INFO]: zaky lost connection: Disconnected
+[15:08:27] [Server thread/INFO]: zaky left the game
+[15:08:38] [Server thread/INFO]: kazo[/66.96.225.99:17798] logged in with entity id 1582 at (76.3675895155836, 65.0, 273.36964227489887)
+[15:08:38] [Server thread/INFO]: kazo joined the game
+[15:08:49] [Server thread/INFO]: RoseAstley12[/158.140.161.171:51688] logged in with entity id 1692 at (204.58908356806361, 64.17675927506424, 248.86586724355496)
+[15:08:49] [Server thread/INFO]: RoseAstley12 joined the game
+[15:08:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:54] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:55] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:56] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:57] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:58] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:08:59] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:00] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:01] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:02] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:03] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:04] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:05] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:06] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:07] [Server thread/WARN]: RoseAstley12 was kicked for floating too long!
+[15:09:07] [Server thread/INFO]: RoseAstley12 lost connection: Flying is not enabled on this server
+[15:09:07] [Server thread/INFO]: RoseAstley12 left the game
+[15:10:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:10:31] [Server thread/INFO]: stopstop<--[HERE]
+[15:10:35] [Server thread/INFO]: Stopping the server
+[15:10:35] [Server thread/INFO]: Stopping server
+[15:10:35] [Server thread/INFO]: Saving players
+[15:10:35] [Server thread/INFO]: Saving worlds
+[15:10:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:overworld
+[15:10:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:10:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_nether
+[15:10:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:10:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_end
+[15:10:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:10:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:10:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:10:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
