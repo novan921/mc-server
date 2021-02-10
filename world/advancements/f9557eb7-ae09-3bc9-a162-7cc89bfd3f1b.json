@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-02-10 09:46:05 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-02-08 19:28:06 +0700"
@@ -1024,13 +1030,27 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2021-02-10 11:19:47 +0700",
       "minecraft:forest": "2021-02-08 13:47:32 +0700",
       "minecraft:mountains": "2021-02-08 13:47:22 +0700",
+      "minecraft:taiga": "2021-02-10 10:59:43 +0700",
+      "minecraft:desert_hills": "2021-02-10 11:22:09 +0700",
+      "minecraft:snowy_tundra": "2021-02-10 11:01:10 +0700",
+      "minecraft:taiga_hills": "2021-02-10 11:09:37 +0700",
+      "minecraft:desert": "2021-02-10 11:22:15 +0700",
+      "minecraft:frozen_river": "2021-02-10 11:01:16 +0700",
       "minecraft:birch_forest": "2021-02-09 01:29:18 +0700",
+      "minecraft:beach": "2021-02-10 11:19:14 +0700",
+      "minecraft:dark_forest": "2021-02-10 10:56:39 +0700",
       "minecraft:river": "2021-02-08 18:56:50 +0700",
+      "minecraft:snowy_taiga": "2021-02-10 11:11:28 +0700",
       "minecraft:birch_forest_hills": "2021-02-09 01:32:48 +0700",
       "minecraft:wooded_mountains": "2021-02-09 01:33:13 +0700",
       "minecraft:wooded_hills": "2021-02-08 19:55:09 +0700",
+      "minecraft:stone_shore": "2021-02-10 11:19:35 +0700",
+      "minecraft:swamp": "2021-02-10 10:55:51 +0700",
+      "minecraft:snowy_taiga_hills": "2021-02-10 11:11:24 +0700",
+      "minecraft:savanna": "2021-02-10 11:26:59 +0700",
       "minecraft:plains": "2021-02-09 01:29:38 +0700"
     },
     "done": false
@@ -1161,6 +1181,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2021-02-10 10:33:16 +0700"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2021-02-08 20:12:54 +0700"
@@ -1260,6 +1286,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-02-08 19:35:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-02-10 10:33:15 +0700"
     },
     "done": true
   },
@@ -1716,6 +1748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-02-10 11:12:34 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-02-08 14:29:39 +0700"
@@ -1785,6 +1823,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2021-02-09 17:39:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-02-10 10:33:15 +0700"
     },
     "done": true
   },
@@ -2151,6 +2195,12 @@
   "minecraft:recipes/decorations/pink_glazed_terracotta": {
     "criteria": {
       "has_pink_terracotta": "2021-02-09 17:38:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-02-10 11:12:34 +0700"
     },
     "done": true
   },
