@@ -1,30 +1,75 @@
-[00:53:52] [Server thread/INFO]: [novan921: Set the time to 1000]
-[01:04:46] [Server thread/INFO]: [novan921: Set the time to 1000]
-[01:14:38] [Server thread/INFO]: [novan921: Set the time to 1000]
-[01:24:44] [Server thread/INFO]: [novan921: Set the time to 1000]
-[01:34:30] [Server thread/INFO]: [novan921: Set the time to 1000]
-[01:44:09] [Server thread/INFO]: [novan921: Set the time to 1000]
-[01:54:01] [Server thread/INFO]: [novan921: Set the time to 1000]
-[02:03:54] [Server thread/INFO]: [novan921: Set the time to 1000]
-[02:14:01] [Server thread/INFO]: [novan921: Set the time to 1000]
-[02:24:27] [Server thread/INFO]: [novan921: Set the time to 1000]
-[02:29:30] [Server thread/INFO]: [novan921: Successfully cloned 1280 blocks]
-[02:30:12] [Server thread/INFO]: [novan921: Successfully filled 955 blocks]
-[02:30:54] [Server thread/INFO]: [novan921: Successfully cloned 1280 blocks]
-[02:30:59] [Server thread/INFO]: [novan921: Successfully filled 955 blocks]
-[02:31:11] [Server thread/INFO]: [novan921: Successfully cloned 1280 blocks]
-[02:47:57] [Server thread/INFO]: novan921 lost connection: Disconnected
-[02:47:57] [Server thread/INFO]: novan921 left the game
-[02:48:28] [Server thread/INFO]: Stopping the server
-[02:48:28] [Server thread/INFO]: Stopping server
-[02:48:28] [Server thread/INFO]: Saving players
-[02:48:28] [Server thread/INFO]: Saving worlds
-[02:48:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:overworld
-[02:48:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:48:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_nether
-[02:48:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:48:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_end
-[02:48:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:48:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:48:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:48:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:45:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:45:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:45:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:45:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:45:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:45:17] [main/INFO]: Reloading ResourceManager: Default
+[22:45:19] [Worker-Main-11/INFO]: Loaded 7 recipes
+[22:45:20] [Worker-Main-11/INFO]: Loaded 927 advancements
+[22:45:24] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[22:45:24] [Server thread/INFO]: Loading properties
+[22:45:24] [Server thread/INFO]: Default game type: SURVIVAL
+[22:45:24] [Server thread/INFO]: Generating keypair
+[22:45:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:45:24] [Server thread/INFO]: Using default channel type
+[22:45:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:45:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:45:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:45:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:45:30] [Server thread/INFO]: Preparing level "world"
+[22:45:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:41] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:41] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:41] [Server thread/INFO]: Preparing spawn area: 0%
+[22:45:42] [Server thread/INFO]: Preparing spawn area: 83%
+[22:45:46] [Server thread/INFO]: Time elapsed: 15911 ms
+[22:45:46] [Server thread/INFO]: Done (16.361s)! For help, type "help"
+[22:45:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[22:46:42] [Server thread/INFO]: novan921[/26.185.128.140:54772] logged in with entity id 220 at (201.5349219389401, 87.12039217969787, 219.7433347552319)
+[22:46:42] [Server thread/INFO]: novan921 joined the game
+[22:46:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[22:47:12] [Server thread/INFO]: [novan921: Set own game mode to Survival Mode]
+[22:47:18] [Server thread/INFO]: [novan921: Gave 1 [Chest] to novan921]
+[22:47:46] [Server thread/INFO]: [novan921: Gave 64 [Diamond] to novan921]
+[22:48:51] [Server thread/INFO]: [novan921: Gave 1 [Book and Quill] to novan921]
+[22:48:58] [Server thread/INFO]: novan921 lost connection: Disconnected
+[22:48:58] [Server thread/INFO]: novan921 left the game
+[22:49:01] [Server thread/INFO]: novan921[/26.185.128.140:54899] logged in with entity id 505 at (188.37206423531717, 64.0, 206.74980257300925)
+[22:49:01] [Server thread/INFO]: novan921 joined the game
+[22:49:18] [Server thread/INFO]: <novan921> .d
+[22:49:32] [Server thread/INFO]: <novan921> .d
+[22:50:30] [Server thread/INFO]: novan921 lost connection: Disconnected
+[22:50:30] [Server thread/INFO]: novan921 left the game
+[22:50:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2961ms or 59 ticks behind
+[22:57:15] [Server thread/INFO]: Stopping the server
+[22:57:15] [Server thread/INFO]: Stopping server
+[22:57:15] [Server thread/INFO]: Saving players
+[22:57:15] [Server thread/INFO]: Saving worlds
+[22:57:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:overworld
+[22:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:57:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_nether
+[22:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:57:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Rok UM]'/minecraft:the_end
+[22:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:57:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
